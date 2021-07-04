@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: './'
+  publicPath: '/vue3week6homework/dist/'
 }
